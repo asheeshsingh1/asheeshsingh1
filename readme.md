@@ -1,7 +1,7 @@
 
 
 
-# asheesh_singh
+# Asheesh Singh
 
 
 ## About me 
