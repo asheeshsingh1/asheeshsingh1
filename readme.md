@@ -5,7 +5,7 @@
 
 
 ## About me 
-I am a Working Professional, currently Working as a QA Engineer at Paytm(One97 Communications Ltd.). I have interest in web development and I have been working on the same. In past I have done some projects related to Python, NodeJs and Javscript. Currently I am learning React!
+I am a working professional currently employed as a Software Engineer at Builder.ai. Previously, I worked as a Software Engineer at Paytm and Accenture. I have a strong interest in web development and have been actively working on it. In the past, I've completed projects using Python, Node.js, and JavaScript. Alongside development, I have also gained hands-on experience with DevOps tools such as Docker and Kubernetes for containerization and orchestration, as well as Terraform and Ansible for infrastructure provisioning and automation.
 
 [![Mail](https://img.shields.io/badge/-asheeshsingh0112@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:asheeshsingh0112@gmail.com)
 [![Github](https://img.shields.io/github/followers/varun-saini-18?label=Follow&style=social)](https://github.com/asheeshsingh1/)
