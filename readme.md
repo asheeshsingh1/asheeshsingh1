@@ -8,15 +8,22 @@
 I am a working professional currently employed as a Software Engineer at Builder.ai. Previously, I worked as a Software Engineer at Paytm and Accenture. I have a strong interest in web development and have been actively working on it. In the past, I've completed projects using Python, Node.js, and JavaScript. Alongside development, I have also gained hands-on experience with DevOps tools such as Docker and Kubernetes for containerization and orchestration, as well as Terraform and Ansible for infrastructure provisioning and automation.
 
 [![Mail](https://img.shields.io/badge/-asheeshsingh0112@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:asheeshsingh0112@gmail.com)
-[![Github](https://img.shields.io/github/followers/varun-saini-18?label=Follow&style=social)](https://github.com/asheeshsingh1/)
+[![Github](https://img.shields.io/github/followers/asheeshsingh1?label=Follow&style=social)](https://github.com/asheeshsingh1/)
 [![Linkedin](https://img.shields.io/badge/-Asheesh%20Singh-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/asheeshsingh1/)](https://www.linkedin.com/in/asheeshsingh1//)
 
 ## Recent Technologies I have worked upon
-<code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<code><img height="50" width="100" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img height="50" width="90" src="https://cdn.worldvectorlogo.com/logos/docker.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/kubernets.svg"></code>
+<code><img height="50" width="70" src="https://cdn.worldvectorlogo.com/logos/java-4.svg"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg"></code>
+<code><img height="50" width="80" src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg"></code>
+<code><img height="50" width="80" src="https://cdn.worldvectorlogo.com/logos/azure-2.svg"></code>
+<code><img height="50" width="80" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"></code>
+<code><img height="50" width="80" src="https://cdn.worldvectorlogo.com/logos/redis.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
